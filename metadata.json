@@ -1,0 +1,7 @@
+{
+  "name": "TwatNugget of the Month",
+  "description": "The ultimate household transgression tracker, witness-verified ledger, weekly offender leaderboard, AI tribunal rulings, and monthly tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
